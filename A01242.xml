@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The marriage of the tvvo great princes, Fredericke Count Palatine, &amp;c: and the Lady Elizabeth, daughter to the Imperial Maiesties of King Iames and Queene Anne vpon Shroue-Sonday last. With the showes and fire-workes vpon the water: as also the masks &amp; reuells, in his Highnes court of White-Hall.</title>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A01242</idno><idno type="EEBO-CITATION">99838397</idno>
+  <idno type="VID">2773</idno>
+  <idno type="EEBO-PROQUEST">2240941135</idno>
+  <idno type="STC">STC 11358</idno>
+  <idno type="STC">ESTC S102625</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838397e"/>
+            <note>(EEBO-TCP ; phase 2, no. A01242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 2773)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1024:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The marriage of the tvvo great princes, Fredericke Count Palatine, &amp;c: and the Lady Elizabeth, daughter to the Imperial Maiesties of King Iames and Queene Anne vpon Shroue-Sonday last. With the showes and fire-workes vpon the water: as also the masks &amp; reuells, in his Highnes court of White-Hall.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>By T[homas] C[reede] for William Barley, and are to be sold by W. Wright, at his shop on Snow-hill, nere S. Pulchers church, at the signe of the Harrow,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Running title reads: Ioyfull triumphs at the royall mariage.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Frederick --  I, --  King of Bohemia, 1596-1632 --  Early works to 1800.</term>
+               <term type="personal_name">Elizabeth, --  Queen, consort of Frederick I, King of Bohemia, 1596-1662 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:2773:1"/>
+            <pb facs="tcp:2773:1"/>
+            <head>THE MAGNIFI<g ref="char:EOLhyphen"/>cent marriage of the two great Princes, <hi>Fredericke Count-palatine, &amp;c.</hi> and the Lady <hi>Elizabeth,</hi> daughter to the imperiall maiesties of King <hi>Iames,</hi> and Queene <hi>Anne,</hi> to the comfort of all great <hi>Brittaine.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing desirous to giue satisfaction to certaine of my acquaintance in the countrey, most willing to vnderstand the manner of the tryumphes holden at the royall marriage, of his maiesties daughter, Princesse <hi>Elizabeth.</hi>
+            </p>
+            <p>I haue made meanes for the true intelligences thereof, and I hope ac<g ref="char:EOLhyphen"/>cording to the content of the Reader, I haue set forth here a true discourse of the same.</p>
+            <p>First, of the shewes and Fire workes vpon the waters before the mariage performed, vpon thursday night, being the eleuenth of Februarie.</p>
+            <p>Then the imitation of a Sea Fight vpon Saterday following. Also of the royall &amp; Princely passage of Prince <hi>Palsegraue</hi> with his renowned bride, to his highnes chap<g ref="char:EOLhyphen"/>pell at white Hall, where in the presence of his maiestie and the noble state, they were married, to make vs reioyce, with a wished happines, with the maskes and reuels fol<g ref="char:EOLhyphen"/>lowing, shewes of more royaltie, then euer in this Age was seene, in the court of England, Therefore let the Rea<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:2773:2"/>hereof, prepare himselfe, to entertaine them with ex<g ref="char:EOLhyphen"/>traordinarie ioy, and receiue the good will of the writer, for a tribute, to be paide as a dew to his countrie.</p>
+            <div type="part">
+               <head>The manner of the Thursdayes shew vpon the water.</head>
+               <p>To begin these tryumphant sports, his highnes, the Quaenes: Maiestie, Prince <hi>Charles,</hi> Prince <hi>Frede<g ref="char:EOLhyphen"/>sicke,</hi> with the Princes <hi>Elizabeth</hi> his royall bride, with the rest of the nobilitie of England, vpon Thursday the eleuenth of Februarie in the euening, being placed in the galleries and windowes about his highnes Court of worte hall, and in the sight of thousands of people, many ar<g ref="char:EOLhyphen"/>tificiall conclusions in Fire workes were vpon the <hi>Thames</hi> performed, and that the pleasurable sights on the water, might equal the sumptuous showes on the land, thus they began: First, for a welcome to the beholders, a peale of ordi<g ref="char:EOLhyphen"/>nance like vnto a terrible thunder ratled in the ayer, and seemed as it were to shake the earth: Immediately vpon this, a Racket of Fire burst from the water, and mounted so high into the Element that it dazeled the beholders eyes to looke after it. Secondly, followed a number more of the same fashion, spredding so strangely with sparkling bla<g ref="char:EOLhyphen"/>zes, that the skie séemed to be filled with fire, or that there had beene a combate of darting starres fighting in the ayre, and all the time these continued, certaine cannons planted in the fields adioyning iuade thundring musicke, to the great pleasure of the beholders. After this, an artificiall, fireworke with great wonder was seene flying in the ayre, like vnto a dragon, against which an other fiery vision ap<g ref="char:EOLhyphen"/>peared flaming like to Saint <hi>George</hi> on Horsebacke, brought in by a burning Inchantresse, betweene which
+<pb facs="tcp:2773:2"/>was sought a most strange battell continuing a quarter of an hower or more: the dragons being vanquithed, seemed to rore like thunder, and withall burst in peeces and vani<g ref="char:EOLhyphen"/>shed, but the champion with his flaming horse for a litle time made a shew of a truimphant conquest, and so ceased, After this, was heard an other ratling sound of Cannons, almost couering the aper with fire and smoake, and forth<g ref="char:EOLhyphen"/>with appeared out of a hill of earth made vpon the water, a very strange fire flaming vpright like vnto a blazing starre: After which flew forth a number of rackets so high in the ayre, that we could not chuse but approue by all rea<g ref="char:EOLhyphen"/>sons that Arte hath erceeded Nature, so artificially were they performed, and still as the Chambers and Cul<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erines plaide vpon the earth, the fire workes danted in the ayre, to the great delight of his Highnes, and the other Princes. Out of the same mount or hill of earth flew an other strāge peece of artificiall fire worke, which was in the likenes of a hunted Hart, running vpon the waters so swiftly, as it had bene chaced by many huntsmen. After the same, issued out of the mount, a number of hunting hounds made all of fice burning, pursuing the aforesaid Harte vp and downe the waters, making many rebounds and turnes with much strangenes: skipping in the ayre, as it had bene a vsual hunting vpon land. These are the delights of Prin<g ref="char:EOLhyphen"/>ces, and prompt is the wit of man to contriue Princes pleasures. Where kings commands be, Art i<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> stretcht to the true depth: As the performance of these Enginers haue approued. But now again to our wished sports, when this fiery hunting extinguished, and that the Elements a little cleared from fire and smoake, there came sayling vp, as it were vpon the Seas, certaine shippes and gallies brauely rigo with top and top gallant, with their flagges and strea<g ref="char:EOLhyphen"/>mers wauing like men of warre, which represented a chri<g ref="char:EOLhyphen"/>stian Nauie opposed against the Turkes, where after they
+<pb facs="tcp:2773:3"/>had a while houered, preparing as it were to make an in<g ref="char:EOLhyphen"/>cursion into the Turkish countrey, they were discouered by two Towers or Castles of defence, strongly furnished to intercept all such inuading purposes, so sending forth the reports of a canon, they were brauely answered with the like from the gallies, banding fire and powder one from an other, as if the God of battels had beene there present, Here was the manner of a Sea Fight rightly performed: First by assayling one an other, all striuing for victorie, and pursuing each other with Fire and sword, the Culue<g ref="char:EOLhyphen"/>rines merily plaid betwixt them, and made the ayre re<g ref="char:EOLhyphen"/>sound with thundring Ecchoes, and at last, to represent the ioyes of a victorie, the castles were sacked, burned and ruinated, and the defenders of the same forced to escape with great danger.</p>
+               <p>During the time of all these triumphant exercises, there was not a man vnbusied, but euery one labored, some on Land, some on Water, some one way, some an other, to moue his Highnes, and the rest of his princely friends a pleasing content, which hee and the other Princes with a gratious acceptance, applauded, to the great com<g ref="char:EOLhyphen"/>fort of the performers, and no litle ioy to the beholders. The next morning, being fryday, his highnes, not inten<g ref="char:EOLhyphen"/>ding to grace the following sports with his presence, gaue cause of forbearāce, with some rest to the Enginers for their great toyle the night before. Moreouer, it was thought conuenient that a whole dayes preparatiō should be made, in prouiding against the Saterdayes pastimes, which mo<g ref="char:EOLhyphen"/>ued a more longing desire in the harts of his subiects to sée the same, which at the time appointed was in this maner accomplied.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:2773:3"/>
+               <head>The maner of the Saterdaies shew vpon the water.</head>
+               <p>BEtwéene the howers of two and thrée of the clocke the same day in the after noone being Sroue-saterday, the Kings maiestie, accompanied with the Quéene, and the rest of the Princes and Peeres of estate, to adde the more glory to these pretended showes, placed themselues in great royaltie vpon the priuie staires of white hall, where after a while expecting the beginning of the desired fire workes, the Lord Admirall sent forth two or thrée gentle<g ref="char:EOLhyphen"/>men in a whirrie, with a flagge or banner to signifie the King, and the Nobilities tarriance for the representatiōs, which was answered with an Intelligence by the report, from a great cannon, whereupon a certaine Venesian men of Warre, and a ship called a Caruell, came proudly with their flagges and colours sayling vp, in the sight of seuentéen Turkish gallies which lay houering vpon Lam<g ref="char:EOLhyphen"/>beth side, betwixt whome was a most royall and praise worthy Imitation of a sea fight in such sort performed, as if the danger of such an Enterprise had bene by true action attempted, all which explaines the honors of mar<g ref="char:EOLhyphen"/>tialists, and made his Maiestie, with many thousands of people of all sorts, and of many Nations eye-witnesses of the true manner of such like incounters. But not to be troublesome in my discourses, I will briefly explaine the courses as they passed, there was a barre or fence made vp<g ref="char:EOLhyphen"/>on the riuer of Thames with barges and Lighters chained together, to kéepe out passengers, which otherwise with much vnrulines would haue hindered the pastimes, and much troubled the performers, but being thus hemde in
+<pb facs="tcp:2773:4"/>as it were vpon the maine Seas, the two Venetian shippes as I said before, falling within danger of the Turkish gal<g ref="char:EOLhyphen"/>lies, indured a fresh encounter, and long time most wor<g ref="char:EOLhyphen"/>thily deleadeo themselues, but by reason of the number of the gallies, they were at last boarded, taken, and ca<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed as boote and prize vnder the commaund of a Turkish castle, which represented and bare the name of the castle of <hi>Ar<g ref="char:EOLhyphen"/>g<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er,</hi> Furnished with <hi>2.</hi> well approued great peeces of Ordinunce, which was contitued and built vpon <hi>Lambeth</hi> side, at a place named <hi>Stand-gate,</hi> inuirened with craggie Rocks as the said Castle is now scituate in Turkie After the Gallies had taken these Venesian ships, and deliuered them into the Turkish Admiralls commaund, they had sight of an other Argosay or Galliaza, which seemed to be of <hi>Srame,</hi> which likewise after a fierce conflict they made prize of, and with much tryumph tendred the same vp also to the Turkish Admirall. After this, vpon a suddaine was a thundring peale of Ordinance or Chambers placed in <hi>Lambeth Marshe,</hi> wherevpon the Scoutes and Watches of the Castle, discouered an English Nauie, to the num<g ref="char:EOLhyphen"/>ber of fifteene Satle of the Kings Pinnaces, making vp towards the point, with their red crost Streamers most gallantly wauing in the Ayre, to the great delight of all the beholders, which as then seemed to couer ouer the Thames in Boates and Barges. Neare vnto this place stood a high built watch Tower or Season of the Turkes, which at the first sight of the English Nauie was set on fire, as the manner is at all such incursions, which bla<g ref="char:EOLhyphen"/>zing Light as it see ned) gaue notice to the Castle, &amp; cau<g ref="char:EOLhyphen"/>sed a readines in the same for defence: In the meane time, the Kings Pinnaces and the Turkish Gallies ioynde, be<g ref="char:EOLhyphen"/>twixt whom, were showne many strange attempts, euen as they had ventured their very liues for their countries safeties: they spated neither powder nor pollicie, to sacke
+<pb facs="tcp:2773:4"/>one an other, but on both sides bestird themselnes so brauely, that his Highnesse withall the rest of his atten<g ref="char:EOLhyphen"/>dants were therewith much delighted: At last the Gallies being ouercharged with long and forward incounters of the English Nauie, for refuge and shelter made new vnto the Castle, which began likewise to play brauely vpon the English, and with their thundering ordinance made as it were the ground to shake. The Kings Nauie to answere them was not backward in a performance, but made the apre gloomie with fire and smoake rozering from their towde mouthed Cannons. The fight for a time conti<g ref="char:EOLhyphen"/>nued fiercely, the victorie leaning to neither side, either of them attempting to assault and board each other, but at last the Gallies being sore bruzed and beaten, began to yeeld, wherevpon the English Admirall fell downe and cast anker before the Castle, and then spared not in the best manner to thunder off their Ordinance, whereat the Turkes yeelded both Castle and Gallies, and submitted to the conquest of the English Admirall, who fiered many of the said Gallies, sacked the Castle, and tooke prisoner the Turkish Admirall, with diuers Bashawes and other great Turkes, and also recouered the <hi>Venetian</hi> and <hi>Spanish</hi> Shippes, before taken by the Gallies. After the perfor<g ref="char:EOLhyphen"/>mance of all these aforesaid, the English Admirall, in a most tryumphant manner carried as a prisoner, the Ad<g ref="char:EOLhyphen"/>mirall of the Gallies attired in a red Iacket with blow sleenes, according to the Turkish fashion, with the Ba<g ref="char:EOLhyphen"/>shawes, and the other Turkes, guarded to his Highnes priuie staires of white Hall, where his grace, Prince <hi>P<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>se<g ref="char:EOLhyphen"/>graue,</hi> and his Lady remained, which prisoners were lead by Sir <hi>Robert Mansfield,</hi> to the Lord Admirall, and by him they were conueyed to the Kings Maiestie, as a represen<g ref="char:EOLhyphen"/>tation of pleasure, which to his Highnes moued delight, and highly pleased all there present. All these aforesaid pa<g ref="char:EOLhyphen"/>stimes
+<pb facs="tcp:2773:5"/>were most nobly performed betweene the howres of three and sixe in the after noone, to the great concent as well of forraigne nations as of our owne country peo<g ref="char:EOLhyphen"/>ple, whereof in one place, and at one time, hath bene sel<g ref="char:EOLhyphen"/>dome seene a greater number. Also for a Farewell to this dayes pleasures, a traine of Chambers were discharged in Saint <hi>Georges</hi> Field of along continuance, and of such an Gechoing thunder, that they euen amazed the hearers. Thus ended Saterdayes shewes vpon the waters, being the eue of this great Mariage day.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:2773:5"/>
+               <head>The manner of the Marriage vpon Shioue-Sunday, with their Royall passage to his <hi>Matesties Chappell at White-Hall.</hi>
+               </head>
+               <p>BUt now to relate and make knowne the royall passage of the renowmed Bride-groome and his faue Bride, (for the satisfying of many thousands) as they entied into his Highnes Chappell at White-Hall: the next day being Sunday, euen ouercomes me with a reioycing descrip<g ref="char:EOLhyphen"/>tion. The Court being placed full of people of many E<g ref="char:EOLhyphen"/>states, sortes, and Nations, and their eyes and hearts fix<g ref="char:EOLhyphen"/>ed to behold the pompious glory of this Marriage in great Royaltie.</p>
+               <p>First came the <hi>Pals-graue,</hi> from the newe built Ean<g ref="char:EOLhyphen"/>quetting-house, attired in a white Satten sute, richly beset with Pearle and Golde, attended on by a number of young gallant Courtiers, both English, Scottish, and Dutch, all in rich manner, euery one shining to exceede in sumptuous habilliaments, fitte for the attendants of so princely a Bridegroome. After come the Lady <hi>Elizabeth,</hi> in her Virgin-robes, clothed in a gowne of white Satten richly embrodered, lead betweene her royall brother Prince <hi>Charle,</hi> and the Earle of <hi>Northampton:</hi> vpon her head a crowne of refined golde, made Imperiall, (by the Pearles and Dyamonds thereupon placed,) which were so thicke beset that they stoode like shining pinnakles, vpon her am<g ref="char:EOLhyphen"/>ber
+<pb facs="tcp:2773:6"/>coloured haire, dependantly hanging plaighted downe ouer her shoulders to her Waste, betweene euery plaight a role or liste of Gold-spangles, Pearles, Riche stones, and Diamonds, and withall, many Diamonds of inestimable value, imbrodered vpon her sleeue, which euen dazeled and amazed the eies of the beholders: her traine in most sump<g ref="char:EOLhyphen"/>tuous manner, carryed vp by fourteene or fiueteene Ladies, attired in white Satten gownes, adorned with many rich Iewells.</p>
+               <p>After went a traine of Noble-mens Daughters, in white Vestements, gloriously set foorth: which Virgin Bride-maides attended vpon the Princesse, like a skye of Celestiall startes, vpon faire <hi>Phoebe.</hi> After them came an other traine of gallant young Courtiers, Flourishing in seuerall Sutes Embrothered and Pearled, who were Knightes, and the sonnes of great Courtiers: After them came foure Herrolds at Armes, in their rich coaten of Har<g ref="char:EOLhyphen"/>roldrie, and then followed many Earles, Lordes, and Bar<g ref="char:EOLhyphen"/>rons, as well of Scotland as England, in most noble man<g ref="char:EOLhyphen"/>ner, then the king of Herrolds, bearing vpon his shoulder a Mace of golde, and then followed the honourable Lords of his Highnes priuie Councell, which passed along after the Traine towards the Chappell, and then came foure re<g ref="char:EOLhyphen"/>nerend Bishops of the Land in their Church abilliaments: After them foure Sargients of the Mace in great state, bearing vpon their shoulders foure rich Enamelled Ma<g ref="char:EOLhyphen"/>ces.</p>
+               <p>Then followed the right Honorable the Earle of <hi>Arundell,</hi> carrying the Kings Sword: And then in great Royaltie the Kings Maiestie himselfe in a most sumptuous blacke sure, with a Dyamond in his hatte of a wonderfull great value; Close vnto him came the Queene, attired in white Satten, <gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>antified with much embrothery, and many dia<g ref="char:EOLhyphen"/>monds: Vpon her attended a number of marryed Ladies,
+<pb facs="tcp:2773:6"/>the Countesses, and wiues of Earles and Barrons, appa<g ref="char:EOLhyphen"/>relled in most noble manner, which added glory vnto this triumphant time and Marriage. These were the passa<g ref="char:EOLhyphen"/>ges of our States of England, accompanying the princely Bride and Bridegroome to his Highnes Chappell, where after the celebration of the Marriage, contracted in the pre<g ref="char:EOLhyphen"/>sence of the King, the Queene, Prince <hi>Charles,</hi> and the rest aforesaide: they returned into the banquetting house with great ioy.</p>
+               <p>The Lady <hi>Elizabeth</hi> being thus made a Wife, was led backe, not by two Batchellors as before, but by the Duke of <hi>Lineux,</hi> and the Earle of <hi>Nottingham,</hi> in a most reuerend manner, before the <hi>Pals-grue,</hi> at his returne from the chap<g ref="char:EOLhyphen"/>pell, went sire of his owne Country gallants, clad in crim<g ref="char:EOLhyphen"/>son Veluet, laide exceedingly thicke with gold lace, bearing in their hands sixe siluer Trumpets, who no sooner com<g ref="char:EOLhyphen"/>ming into the Banquetting house, but they presented him with a melodious sound of the same, flourishing so delight<g ref="char:EOLhyphen"/>fully, that it greatly reioyced the whole Court, and caused thousands to say at that instant time, <hi>God giue them ioye, God giu<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them ioy.</hi>
+               </p>
+               <p>Thus preparing for dinner, they passed away a certaine time, and there fell to Dancing, Masking, and Reuelling, according to the custome of such Assemblies, which conti<g ref="char:EOLhyphen"/>nued all the day and part of the night in great pleasure.</p>
+            </div>
+            <div type="part">
+               <head>¶ The order of the Mundayes showes.</head>
+               <p>THe next day (being Shrone-monday) by the Nobilitie of England was spent in great honour, where their rich Robes of Estate seconded the day before, with many commendable Races: for the whole Court so glori<g ref="char:EOLhyphen"/>ously shined with Imbrothered abilliaments, that it made
+<pb facs="tcp:2773:7"/>euen a smiling cheerefulnes sat vpon the countenances of many thousande beholders. Also the proceeding Night, sports were as sumptuous, as the passed dayes, and in as gallant a manner performed: whereof to satisfie the desire<g ref="char:EOLhyphen"/>full Reader, I must thus speake;</p>
+               <p>The Gentlemen of the Innes of Court, in the best and ratest manner they could deuise, prepared Maskes and Re<g ref="char:EOLhyphen"/>nells in the Court that night to be presented: and about the houres of eight or nine, they passed from the <hi>Roles</hi> in <hi>Chancery-Lane,</hi> to <hi>White Hall,</hi> in as royall manner as euer gallants did to the Court of <hi>England.</hi>
+               </p>
+               <p>First, there rode some thrée score braue spirited Gentle<g ref="char:EOLhyphen"/>men vpon great Bard-horses, most richly trapped with im<g ref="char:EOLhyphen"/>brothered furnitures, themselues attired in cloth of golde and tissne, most gloriously shining, lighted by a number of torches, to beautifle the showe with more Eye-pleasing de<g ref="char:EOLhyphen"/>lights.</p>
+               <p>After them, some sixe and thirtie Maskers, diuided by twelues, in most strange Anticke sutes, in a most admi<g ref="char:EOLhyphen"/>rable and stately manner. Likewise vpon costly trapped steedes, each of them hauing a Blacke moore Page attten<g ref="char:EOLhyphen"/>ding on Horse backe, with torch lights burning in their hands.</p>
+               <p>After them followed thrée Charriots of Maskers and Reuellers, in garments of a meruellous fashion, so artifici<g ref="char:EOLhyphen"/>ally disguised, that they moued much wonder. Vpon them attended a number of Footemen, bearing burning torches, and withall, many trumpets scunding melodiously, which was a sight both to Eye and Eare, of an exceeding glorie: These performed many delightfull dances in his Highnes presence, and other pastimes of pleasure, to the great com<g ref="char:EOLhyphen"/>fort of all the beholders, and to the high honours of this magnificent Marriage.</p>
+               <pb facs="tcp:2773:7"/>
+               <p> And now to conclude my discourse, the ioyes hereof were declared in manie places, as well Citie as Courte: for the Bells of <hi>London</hi> rung generally in euery Church, and in euery streete Bonfires blazed abundantly, there was neither cost nor paines spared by his Highnes sub<g ref="char:EOLhyphen"/>iects, that any way might giue signes of ioy, for the Marriage of his princely daugh<g ref="char:EOLhyphen"/>ter to her royall Husband, whome God blesse with long happines, and Throanes of Angelles keepe and defend Amen.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
